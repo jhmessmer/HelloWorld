@@ -26,6 +26,7 @@ namespace HelloWorld
         private string fName;
         private string lName;
         private int rating;
+    }
     class Person
     {
         private int Id;
