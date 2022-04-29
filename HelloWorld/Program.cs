@@ -20,4 +20,12 @@ namespace HelloWorld
         private string lName;
         private string major;
     }
+
+    class Faculty
+    {
+        private int facultyId;
+        private string fName;
+        private string lName;
+        private int rating;
+    }
 }
