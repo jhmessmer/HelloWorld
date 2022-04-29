@@ -12,8 +12,6 @@ namespace HelloWorld
             Console.WriteLine("This is yet another change.");
         }
     }
-
- my-new-new-branch
     class Student
     {
         private int studentId;
@@ -21,6 +19,13 @@ namespace HelloWorld
         private string lName;
         private string major;
     }
+
+    class Faculty
+    {
+        private int facultyId;
+        private string fName;
+        private string lName;
+        private int rating;
     class Person
     {
         private int Id;
