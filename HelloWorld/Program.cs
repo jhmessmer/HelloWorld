@@ -12,4 +12,16 @@ namespace HelloWorld
             Console.WriteLine("This is yet another change.");
         }
     }
+
+    class Person
+    {
+        private int Id;
+        private string fName;
+        private string lName;
+        private double salary;
+        private string email;
+    }
+        
+    
+
 }
