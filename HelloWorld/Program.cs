@@ -12,4 +12,12 @@ namespace HelloWorld
             Console.WriteLine("This is yet another change.");
         }
     }
+
+    class Student
+    {
+        private int studentId;
+        private string fName;
+        private string lName;
+        private string major;
+    }
 }
