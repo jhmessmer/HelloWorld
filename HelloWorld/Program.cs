@@ -8,6 +8,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("This is a change to the project.");
+            Console.WriteLine("The sky is blue, which is cool.");
         }
     }
 }
