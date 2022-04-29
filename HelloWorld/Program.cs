@@ -13,11 +13,20 @@ namespace HelloWorld
         }
     }
 
+ my-new-new-branch
     class Student
     {
         private int studentId;
         private string fName;
         private string lName;
         private string major;
+    }
+    class Person
+    {
+        private int Id;
+        private string fName;
+        private string lName;
+        private double salary;
+        private string email;
     }
 }
