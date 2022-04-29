@@ -12,7 +12,6 @@ namespace HelloWorld
             Console.WriteLine("This is yet another change.");
         }
     }
-
     class Student
     {
         private int studentId;
@@ -27,5 +26,12 @@ namespace HelloWorld
         private string fName;
         private string lName;
         private int rating;
+    class Person
+    {
+        private int Id;
+        private string fName;
+        private string lName;
+        private double salary;
+        private string email;
     }
 }
